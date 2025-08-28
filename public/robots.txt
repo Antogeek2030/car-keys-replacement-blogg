@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://carkeysreplacementnairobi.co.ke/sitemap-index.xml

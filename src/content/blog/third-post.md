@@ -1,5 +1,5 @@
 ---
-title: "Third post"
+title: "Benefits of Smart Car Keys"
 description: "Benefits of Smart Car Keys"
 pubDate: "Jul 22 2022"
 heroImage: "/blog-placeholder-2.jpg"
